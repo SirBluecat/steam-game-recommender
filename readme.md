@@ -1,0 +1,1 @@
+A small TorchVision project to try and create a steam game recommendation system using the Steam API.
